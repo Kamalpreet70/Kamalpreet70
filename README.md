@@ -11,9 +11,8 @@ As a pre-final year student, I'm eager to delve deeper into various aspects of c
 
 🔧 Technologies & Tools
 Here are some of the technologies and tools I'm familiar with:
-
-Programming Languages: C++, R, Python
-Web Development: HTML, CSS, JavaScript
-Databases: MySQL
-Tools & Software: Git, Visual Studio Code, Pycharm
+* Programming Languages: C++, R, Python
+* Web Development: HTML, CSS, JavaScript
+* Databases: MySQL
+* Tools & Software: Git, Visual Studio Code, Pycharm
 
